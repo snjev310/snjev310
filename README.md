@@ -7,18 +7,11 @@ Working on NLP for Extremely Low-Resource Languages
 
 ## About Me
 
-I am a fifth-year PhD student at the Department of Computer
-Science and Engineering, IIT Bombay, supervised by
-[Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi)
-and Late [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb).
+I am a fifth-year PhD student at the Department of Computer Science and Engineering, IIT Bombay, supervised by [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi) and Late [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb).
 
-My research focuses on extremely low-resource languages and
-how to transfer knowledge from large pretrained models
-to languages that have almost no data.
+My research focuses on extremely low-resource languages and how to transfer knowledge from large pretrained models to languages that have almost no data.
 
-I was recently a Visiting Research Scholar at the
-University of Sheffield, hosted by
-[Prof. Nikos Aletras](https://sheffield.ac.uk/cs/people/academic/nikos-aletras).
+I was recently a Visiting Research Scholar at the University of Sheffield, hosted by [Prof. Nikos Aletras](https://sheffield.ac.uk/cs/people/academic/nikos-aletras).
 
 ---
 
@@ -49,13 +42,3 @@ University of Sheffield, hosted by
   Low-resource Indian Languages
   · [Paper](https://aclanthology.org/2024.findings-acl.857/)
   · [Code](https://github.com/snjev310/acl-24-pos)
-
----
-
-## Find Me
-
-[![Website](https://img.shields.io/badge/Website-cse.iitb.ac.in-blue)](https://www.cse.iitb.ac.in/~sanjeev/)
-[![Google Scholar](https://img.shields.io/badge/Scholar-Google-green)](https://scholar.google.com/citations?user=Rm5CzRsAAAAJ)
-[![Twitter](https://img.shields.io/badge/Twitter-snjev310-1DA1F2)](https://twitter.com/snjev310)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-snjev310-0077B5)](https://linkedin.com/in/snjev310)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-snjev310-yellow)](https://huggingface.co/snjev310)
